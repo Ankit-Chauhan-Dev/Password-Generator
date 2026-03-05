@@ -80,7 +80,8 @@ Add a screenshot of the application interface here to showcase the project.
 Example:
 
 ```
-![Project Screenshot](screenshot.png)
+![Project Screenshot]
+(screenshot.png)
 ```
 
 ---
